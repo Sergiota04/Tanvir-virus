@@ -1,6 +1,4 @@
 # Tanvir-virus
-♪♪sergio tanvir tack## youtube
-It's tanvir ## instragram
-""""""""""""""""""""""""""""""""""""""""""""""
-""""""""""""""""""""""""""""""""""""""""""""""
-\/\/
+Who to install 
+$pkg install git
+$git clone https://github.com/Sergiota04/Tanvir-virus
