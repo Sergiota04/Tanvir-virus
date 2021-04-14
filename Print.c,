@@ -1,0 +1,10 @@
+#include<conio.h>
+#include<stdio.h>
+#include<time.h>
+int main()
+{
+printf("///////.loding.......paylode");
+
+
+
+}
